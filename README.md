@@ -457,3 +457,5 @@ Pull request are also very welcome!
     https://medium.com/@son.rommer/fix-cleartext-traffic-error-in-android-9-pie-2f4e9e2235e6
 [3]: https://medium.com/@guerrix/info-plist-localization-ad5daaea732a
 [4]: https://developer.android.com/training/basics/supporting-devices/languages
+l o l  
+ 
